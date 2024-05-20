@@ -1,0 +1,2 @@
+Project : Landing Page
+Code an entire web page from the blank page to desired finished layout provided. This will showcase use of HTML, CSS and flexbox to produce desired layout with correct fonts and colors provided. 
